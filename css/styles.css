@@ -1,0 +1,16 @@
+h1 {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+body {
+  background-color: #f8e8a6;
+}
+
+a {
+  color: green;
+}
+
+.email-link a {
+  color: blue;
+}
